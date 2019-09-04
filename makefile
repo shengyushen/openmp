@@ -1,4 +1,4 @@
-EXECS = hello.exe for.exe critical.exe
+EXECS = hello.exe for.exe critical.exe public.exe
 CC=gcc
 
 .DEFAULT_GOAL := all
